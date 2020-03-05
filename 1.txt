@@ -1,0 +1,9 @@
+<!--
+var date = new Date();
+date.setTime(sunset);
+var sunset_date = date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();
+
+var sunrise = data.sys.sunrise;
+date.setTime(sunrise);
+var sunrise_date = date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();
+-->
